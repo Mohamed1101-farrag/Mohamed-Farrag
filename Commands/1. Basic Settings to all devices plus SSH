@@ -13,12 +13,12 @@ exit
 enable password cisco
 banner motd &
 
-Name: Mohamed Shehta Mohamed Ahmed 
+Name: Mohamed Farrag Ahmed
 ID: 1111329267
 Group: SHR1-ISS2-S1e
 Track: Cisco Network Administrator 
 Company: AST
-Instructor: ENG. Sameh Kamal Elshamy
+Instructor: ENG. Hamada hegazy
 project: Secure Company Network
 
 password: cisco 
